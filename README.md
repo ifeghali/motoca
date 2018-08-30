@@ -10,3 +10,5 @@ Features include:
 
 Powertrain (motor and led stripe) powered by a 2S LiFe battery (or any other ~6V source like a Pb battery).
 Electronics powered by 2S LiPo battery (or any other power source in the range of the regulator) and a 5V regulator.
+
+Video available at https://youtu.be/hqM8O6VFWt4
