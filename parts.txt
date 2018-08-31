@@ -90,24 +90,32 @@ UPGRADE INDUSTRIES [10x] 1x40 Pin 2.54 mm Right Angle Single Row Female Header S
 http://a.co/d/hTWqy2d
 $14.77
 
-Gikfun 1 X 40pin 2.54 breakaway Male header for Arduino (Pack of 20pcs) EK1017
-http://a.co/d/24iU2xD
-$7.88
+|-------------------------------------------------------------------------------
+|Gikfun 1 X 40pin 2.54 breakaway Male header for Arduino (Pack of 20pcs) EK1017
+|http://a.co/d/24iU2xD
+|$7.88
+|
+|1 Pin Dupont Connector (5set/bag)
+|https://hobbyking.com/en_us/jwt-connectors-1-pin-5set-bag.html
+|$0.50
+|
+|2 Pin Dupont Connector (5set/bag)
+|https://hobbyking.com/en_us/jwt-connectors-2-pin-5set-bag.html
+|$0.92
+|
+|3 Pin Dupont Connector
+|
+|4 Pin Dupont Connector (5set/bag)
+|https://hobbyking.com/en_us/jwt-connectors-4-pin-5set-bag.html
+|$1.58
+|-OR THE KIT--------------------------------------------------------------------
+|Hilitchi 635 Pcs 40 Pin 2.54mm Pitch Single Row Pin Headers,Dupont Connector Housing Female,Dupont Male/Female Pin Connector Kit
+|http://a.co/d/ha07HEC
+|$10.99
+|-------------------------------------------------------------------------------
 
-1 Pin Dupont Connector (5set/bag)
-https://hobbyking.com/en_us/jwt-connectors-1-pin-5set-bag.html
-$0.50
-
-2 Pin Dupont Connector (5set/bag)
-https://hobbyking.com/en_us/jwt-connectors-2-pin-5set-bag.html
-$0.92
-
-4 Pin Dupont Connector (5set/bag)
-https://hobbyking.com/en_us/jwt-connectors-4-pin-5set-bag.html
-$1.58
-
-Hilitchi 635 Pcs 40 Pin 2.54mm Pitch Single Row Pin Headers,Dupont Connector Housing Female,Dupont Male/Female Pin Connector Kit
-http://a.co/d/ha07HEC
-$10.99
+50 Pcs Female Wire Crimp Spade Terminals Quick Disconnect Electric Connectors 15A 1.5-2.5mm²
+http://a.co/d/deb2hhV
+$1.02
 
 10x5cm Veroboard
