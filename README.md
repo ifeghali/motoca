@@ -12,3 +12,5 @@ Powertrain (motor and led stripe) powered by a 2S LiFe battery (or any other ~6V
 Electronics powered by 2S LiPo battery (or any other power source in the range of the regulator) and a 5V regulator.
 
 Video available at https://youtu.be/hqM8O6VFWt4
+
+For further instructions https://www.hackster.io/ifeghali/electric-bike-61835d
